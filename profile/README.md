@@ -1,34 +1,62 @@
-# Welcome to IPIS-LAB 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f2328&height=130&section=header&text=IPIS%20LAB&fontSize=50&fontColor=ffffff" width="100%" />
+</p>
 
-> IPIS Lab offers an automatic synthetic data generation solution for developing image and video-based AI
+<p align="center">
+  <strong>Next-Generation Automatic Synthetic Data Generation Solution</strong><br>
+  <sub>Empowering Image and Video-Based AI Models with Minimal Input Data</sub>
+</p>
 
-우리는 끊임없는 연구와 혁신적인 개발을 통해 기술의 새로운 기준을 만들어가는 **IPIS-LAB**입니다.  
-현재는 소수의 정예 멤버로 단단한 기반을 다지고 있으며, 앞으로 전 세계를 무대로 함께 성장해 나갈 동료들을 기다리고 있습니다.
-
----
-
-## 🚀 What We Do (주요 기술 및 프로젝트)
-
-우리는 주로 아래와 같은 기술 스택을 활용하여 프로젝트를 빌드하고 있습니다.
-
-| 분류 | 기술 스택 (Tech Badges) |
-| :--- | :--- |
-| **Backend** | ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
----
-
-## 👥 Members
-
-* **👑 [Joonki Paik]** - CEO / Founder
-* **🧪 [Jinbem Jang]** - R&D Team Lead
-* **💻 [Injae Lee]** - Software Engineer
+<p align="center">
+  <a href="https://www.ipislab.ai/"><img src="https://img.shields.io/badge/Official%20Website-ipislab.ai-blue?style=flat-square" alt="Website"></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Data%20Generation-success?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Core%20Engine-DataSyn-orange?style=flat-square" alt="Core">
+</p>
 
 ---
 
-## 📬 Contact & Channels
+## 💡 About IPIS LAB
 
-우리 팀에 대해 더 알고 싶거나 협업을 원하신다면 아래 채널을 통해 연락해 주세요!
+**IPIS LAB**은 영상 분석 AI 모델의 학습 장벽을 허무는 혁신적인 기술을 연구하고 제품화합니다.  
+우리의 플래그십 솔루션인 **DataSyn**은 단 한 장의 배경 이미지와 객체 정보만으로도 인공지능 학습에 필요한 대규모 고품질 합성 데이터를 무한히 생성할 수 있는 독보적인 강점을 가지고 있습니다.
 
-* **Website :** [ipislab.ai](https://www.ipislab.ai/)
-* **Email:** [회사 공식 이메일 주소]
+* **The Solution:** 영상 및 이미지 기반 AI 개발을 위한 자동 데이터 합성 프로세스 제공.
+* **Efficiency:** 단 한 세트의 에셋(배경/객체)으로 수만 장의 고퀄리티 트레이닝 데이터 양산 가능.
+
+---
+
+## 🛠️ Core Technology Stack
+
+### AI & Data Engineering
+`Python` `Django` `PyTorch` `OpenCV` `NumPy`
+
+### System Infrastructure
+`AWS` `Docker` `Kubernetes` `Terraform`
+
+
+---
+
+## 👥 Members & Leadership
+
+Microsoft 스타일의 간결한 그리드 형태로 핵심 멤버의 역할과 GitHub 계정을 오피셜하게 명시합니다.
+
+| Member | Position / Role | Primary Domain | Contact |
+| :--- | :--- | :--- | :--- |
+| **Joonki Paik** | `CEO / Founder` | Executive & Deep Tech Research | `paikj@cau.ac.kr` |
+| **Jinbem Jang** | `R&D Team Lead` | Core Algorithm & AI Architecture | `jinbeum@ipis.cau.ac.kr` |
+| **Injae Lee** | `Software Engineer` | Data Engine & Systems Engineering | `injea0908@ipis.cau.ac.kr` |
+
+---
+
+## 📬 Contact & Tech Support
+
+IPIS-LAB의 솔루션 기여, 비즈니스 협업 또는 기술 문의는 아래 채널을 이용해 주시기 바랍니다.
+
+* **Corporate Website:** [https://www.ipislab.ai](https://www.ipislab.ai/)
+* **Official Email:** [contact@ipislab.ai](mailto:contact@ipislab.ai)
+
+---
+
+<p align="right">
+  <sub>© 2026 IPIS-LAB Inc. All rights reserved.</sub>
+</p>
