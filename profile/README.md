@@ -42,9 +42,9 @@ Microsoft 스타일의 간결한 그리드 형태로 핵심 멤버의 역할과 
 
 | Member | Position / Role | Primary Domain | Contact |
 | :--- | :--- | :--- | :--- |
-| **Joonki Paik** | `CEO / Founder` | Executive & Deep Tech Research | `paikj@cau.ac.kr` |
-| **Jinbem Jang** | `R&D Team Lead` | Core Algorithm & AI Architecture | `jinbeum@ipis.cau.ac.kr` |
-| **Injae Lee** | `Software Engineer` | Data Engine & Systems Engineering | `injea0908@ipis.cau.ac.kr` |
+| **Joonki Paik** | `CEO / Founder` | Executive & Deep Tech Research | `paikj@ipislab.ai` |
+| **Jinbem Jang** | `R&D Team Lead` | Core Algorithm & AI Architecture | `jang_jb@ipislab.ai` |
+| **Injae Lee** | `Software Engineer` | Data Engine & Systems Engineering | `lee0908@ipislab.ai` |
 
 ---
 
